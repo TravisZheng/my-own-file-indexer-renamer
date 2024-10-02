@@ -1,0 +1,2 @@
+I wrote these Python scripts to index and rename certain old files. These files usually come from and sometimes shared across older computers systems that are using older encodings, thus the file names become garbled.
+By the way, on Linux, there is a convmv program that you can easily install and use to deal with such file names easily. I wasn't able to find a compiled executable of convmv for Windows, so I decided to write a Python script that does the job for me, and just like many other stories, a simple request resulted in a larger-scale programming.
