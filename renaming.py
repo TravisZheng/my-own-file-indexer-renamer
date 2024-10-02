@@ -20,4 +20,4 @@ def rename_files(file_path, txt_path):
                 print(f'Renamed {old_name} -> {new_name}')   # Print the operation for verification
 
 # Provide the path of directory where files are located and the txt file here
-rename_files('P:/12', 'file_index_utf8.txt')
+rename_files('C:/your/folder', 'file_index_utf8.txt')

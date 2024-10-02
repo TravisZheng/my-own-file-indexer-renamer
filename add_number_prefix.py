@@ -27,6 +27,6 @@ def add_prefix_to_file_names(folder_path: str) -> None:
 
 
 if __name__ == "__main__":
-    folder_path = "P:/12"
+    folder_path = "C:/your/folder"
 
     add_prefix_to_file_names(folder_path)

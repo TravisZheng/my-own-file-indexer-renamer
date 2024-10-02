@@ -2,7 +2,7 @@ import os
 import glob
 
 # Define the folder to index
-INDEX_FOLDER = 'P:/12'
+INDEX_FOLDER = 'C:/your/folder'
 
 # Get a list of all files in the folder and its subdirectories
 files = sorted(glob.glob(os.path.join(INDEX_FOLDER, '*.*')))
